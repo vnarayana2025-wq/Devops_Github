@@ -14,4 +14,7 @@ master code adding
 =======
 this is 2nd merge code
 
-hello guys how are you 
+hello guys how are you
+
+##rebase type
+999999999
