@@ -7,6 +7,11 @@ mutiplication
 a*b
 
 
+
 master code adding
 
 12323728297
+=======
+this is 2nd merge code
+
+hello guys how are you 
